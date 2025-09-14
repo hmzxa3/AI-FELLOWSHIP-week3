@@ -1,4 +1,4 @@
-# Week 3 ——— Advanced Prompting: Zero-Shot, Few-Shot, and Chain-of-Thought (CoT)
+# Week 3 —— Advanced Prompting: Zero-Shot, Few-Shot, and Chain-of-Thought (CoT)
 
 This package includes:
 
